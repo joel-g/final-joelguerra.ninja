@@ -448,3 +448,7 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+.pad-left {
+  padding-left: 30px;
+}
